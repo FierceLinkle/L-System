@@ -1,2 +1,2 @@
 # L-System
-Coursework 1 for IS71021C: Mathematics and Graphics for Computer Games 1
+Source code for my L-System generator made in Unity 2019.
